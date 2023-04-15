@@ -1,11 +1,11 @@
 import React from "react";
-import Trending from "../blocks/trending";
 import Banner from "./banner";
-import SwiperCore, { Navigation } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
 import "./components.css";
-import "swiper/css";
-import "swiper/css/navigation";
+// import Trending from "../blocks/trending";
+// import SwiperCore, { Navigation } from "swiper";
+// import { Swiper, SwiperSlide } from "swiper/react";
+// import "swiper/css";
+// import "swiper/css/navigation";
 
 SwiperCore.use([Navigation]);
 
