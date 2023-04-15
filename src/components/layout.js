@@ -7,7 +7,7 @@ import "./components.css";
 // import "swiper/css";
 // import "swiper/css/navigation";
 
-SwiperCore.use([Navigation]);
+// SwiperCore.use([Navigation]);
 
 function Layout() {
   return (
